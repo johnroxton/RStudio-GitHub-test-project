@@ -18,3 +18,6 @@ testData <- data.table(matrix(1:100, 10, 10))
 fwrite(testData, file = "test file 1.txt")
 fwrite(testData, file = "test file 2.csv")
 fwrite(testData, file = "test file 3.gz")
+
+# first change to something
+c = 1
