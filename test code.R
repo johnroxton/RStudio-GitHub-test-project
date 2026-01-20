@@ -21,3 +21,6 @@ fwrite(testData, file = "test file 3.gz")
 
 # first change to something
 c = 1
+
+# second change to something
+d = 1
